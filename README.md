@@ -1,2 +1,2 @@
 # codingamigos.github.io
-Coding Amigos Academy :-)
+Coding Amigos :-)
